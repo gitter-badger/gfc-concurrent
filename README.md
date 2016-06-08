@@ -1,5 +1,7 @@
 # gfc-concurrent [![Build Status](https://travis-ci.org/gilt/gfc-concurrent.svg?branch=master)](https://travis-ci.org/gilt/gfc-concurrent) [![Coverage Status](https://coveralls.io/repos/gilt/gfc-concurrent/badge.svg?branch=master&service=github)](https://coveralls.io/github/gilt/gfc-concurrent?branch=master)
 
+[![Join the chat at https://gitter.im/gilt/gfc-concurrent](https://badges.gitter.im/gilt/gfc-concurrent.svg)](https://gitter.im/gilt/gfc-concurrent?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A library that contains scala concurrency helper code. Part of the gilt foundation classes.
 
 ## Contents and Example Usage
